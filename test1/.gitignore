@@ -1,7 +1,8 @@
 __pycache__/
 build/
 .vscode/
-carrotlib/
-dungeon/
 *.DS_Store
+~$*.xlsx
 pyrightconfig.json
+.caches/
+.documents/
